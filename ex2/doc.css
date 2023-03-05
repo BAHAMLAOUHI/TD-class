@@ -1,0 +1,99 @@
+body{
+    background-image: url(./fond.jpg);
+}
+
+header{
+    display: flex ;
+    align-items: center;
+    gap: 400px;
+   border:2px solid black;
+    padding: 10px; 
+    background-color: #CCCC99;   
+}
+
+h1{
+    color: blue;
+}
+
+.chaps{
+    font-size: 20px;
+    max-width: 400px;
+   border: 2px solid;
+    margin: 20px;
+    padding: 10px;
+    min-height: 450px;
+    margin-bottom: 0;
+    background-color: #CCFFFF;
+}
+
+.chaps li{
+    padding-bottom: 10px;
+
+
+}
+
+.partie{
+    padding-top: 10px;
+    list-style-image: url(./puce.png);
+}
+
+.cours{
+    display: flex;
+    gap: 50px;
+
+    
+}
+
+.fiche{
+    display: block;
+    text-align: center;
+    width: 100%;
+    border: 2px solid;
+    justify-content: center;
+    margin-top: 20px;
+    min-height: 400px;
+    background-color: #33ccff;
+}
+
+table {
+    text-align: left;
+    border-collapse: collapse;
+    margin-left: 18%;
+    margin-top: 20px;
+  }
+  
+  th, td {
+    border: 1px solid black;
+    padding: 8px;
+    width :300px;
+    height: 30px;
+  }
+.colonne2{
+    text-align: center;
+}
+.coll{
+    width: 50%;
+}
+
+
+.info{
+    margin: 20px;
+    border: 2px solid black;
+}
+
+.footer{
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+    padding-right: 10px;
+    font-size: large;
+
+}
+
+
+
+
+  
+
+  
+  
