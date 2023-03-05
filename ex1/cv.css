@@ -1,0 +1,129 @@
+body{
+    margin: 10px 10px 10px 10px;
+    display: grid;
+    justify-content: center;
+   
+    
+}
+
+.main{
+    display: flex;
+    border-style: double;
+    padding: 10px 10px 10px 10px;
+    max-width: 900px;
+ 
+    
+}
+
+/* partie lisar hedhi */
+
+.parti-isar{
+    min-width: 280px;
+    background-color: antiquewhite;
+    min-height: 1000px;
+    border-right: 2px solid rgb(0, 0, 0,0.2 ); ;
+}
+
+img{
+    padding-top: 10px;
+    height: 200px;
+    width: 200px;
+    border-radius: 100px;
+}
+.photo{
+    text-align: center;
+}
+.esmi{
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.personal-info{
+    border-bottom: 2px solid rgb(0, 0, 0,0.2 );
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+li{
+    font-size: 15px;
+    /*font-family:Verdana, Geneva, Tahoma, sans-serif;*/
+    font-weight: 200;
+}
+
+.sp{
+    padding-left: 10px;
+    font-weight: bold;
+    font-style: italic;
+}
+.Contact{
+    padding-top: 10px;
+}
+.info{
+    border-bottom: 2px solid rgb(0, 0, 0,0.2 );
+}
+
+.icon{
+    margin-left:10px;
+}
+.annee {
+    font-weight:bold ;
+    font-style: italic;}
+.etude{
+    margin-top: 10px;
+    border-bottom:  2px solid rgb(0, 0, 0,0.2 );
+}
+.vie{
+    margin-top: 10px;
+}
+ 
+
+
+/* partie limin tao*/
+
+.partie-imin{
+    background-color: beige;
+    min-width: 620px;
+}
+
+
+.skill {
+    display: flex;
+    align-items: center;
+    
+  }
+  
+  .skill-name {
+    margin-right: 20px;
+    font-weight:200;
+  }
+  
+  .skill-level {
+    width: 150px;
+    height: 20px;
+    
+  }
+  
+  .skill-value {
+    margin-left: 20px;
+  }
+  
+
+
+  .interet{
+    font-size: medium;
+    font-style: oblique;
+  }
+
+  .int{
+    padding-left: 15px;
+  }
+
+
+
+
+
+
+
+
